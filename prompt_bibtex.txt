@@ -1,0 +1,6 @@
+Hãy sử dụng skill paper-lookup và citation-management để thực hiện tác vụ sau:
+
+1. Tìm kiếm các bài báo khoa học chất lượng cao về chủ đề "Knowledge Graph in Education" (ưu tiên các công trình từ năm 2021 đến 2026 trên OpenAlex, arXiv, và PubMed).
+2. Trích xuất đầy đủ thông tin định danh (DOI, PMID, arXiv ID, Tác giả, Tên bài báo, Tạp chí/Hội thảo, Năm xuất bản).
+3. Tạo và lưu một file BibTeX hoàn chỉnh có tên `knowledge_graph_education.bib` chứa danh mục trích dẫn của các bài báo tìm được.
+4. Kiểm tra, làm sạch mã BibTeX (đảm bảo không trùng lặp và đầy đủ các trường tác giả, năm, DOI).

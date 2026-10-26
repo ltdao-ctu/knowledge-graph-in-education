@@ -1,0 +1,16 @@
+# Bỏ qua môi trường ảo Python
+venv/
+.venv/
+ENV/
+
+# Bỏ qua các tệp bộ nhớ tạm của Python
+__pycache__/
+*.pyc
+
+# Bỏ qua các tệp ẩn & thiết lập IDE
+.vscode/
+.idea/
+.env
+
+# Bỏ qua thư mục PDF lớn (nếu không muốn đưa tài liệu lên)
+pdfs/
